@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-17T19:46:38 IST" name="Default suite" finished-at="2023-02-17T19:46:53 IST" duration-ms="14562">
+    <groups>
+    </groups>
+    <test started-at="2023-02-17T19:46:38 IST" name="Default test" finished-at="2023-02-17T19:46:53 IST" duration-ms="14562">
+      <class name="com.pom.testcases.TestCaseNo1">
+        <test-method is-config="true" signature="Browsersetup()[pri:0, instance:com.pom.testcases.TestCaseNo1@3e27aa33]" started-at="2023-02-17T19:46:38 IST" name="Browsersetup" finished-at="2023-02-17T19:46:49 IST" duration-ms="10814" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browsersetup -->
+        <test-method signature="Login()[pri:0, instance:com.pom.testcases.TestCaseNo1@3e27aa33]" started-at="2023-02-17T19:46:49 IST" name="Login" description="Login Functionality" finished-at="2023-02-17T19:46:52 IST" duration-ms="3066" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="AfterBrowser()[pri:0, instance:com.pom.testcases.TestCaseNo1@3e27aa33]" started-at="2023-02-17T19:46:52 IST" name="AfterBrowser" finished-at="2023-02-17T19:46:53 IST" duration-ms="554" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterBrowser -->
+      </class> <!-- com.pom.testcases.TestCaseNo1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
